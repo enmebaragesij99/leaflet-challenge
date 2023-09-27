@@ -11,7 +11,7 @@ earthquake visualisation.
 
 - logic(JavaScript file)
 
-- (app which can be deployed via GitHub Pages)
+-  https://enmebaragesij99.github.io/leaflet-challenge/ (app which can be deployed via GitHub Pages)
 
 ## About
 
